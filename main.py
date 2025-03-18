@@ -4,13 +4,17 @@ def main():
 if __name__ == "__main__":
     main()
 
-# PIS-Vjezba1
-def readme():
-    print("Python projekt za vježbu korištenja Git sustava za verzioniranje.")
+def nova_funkcija():
+    return "Ovo je nova funkcija."
 
-if __name__ == "__main__":
-    readme()
+# Ovo je moj komentar - EnaBuric
+<<<<<<< HEAD
 
-# Ovo je moj komentar -RenatoCarić
+def nova_metoda(self):
+    return "Ovo je nova metoda"
+=======
+
+
 def nova_metoda():
     return "Ovo je nova metoda 2."
+>>>>>>> 599db0bc8c060e27e4aea673cc68f76d4c0e8628
